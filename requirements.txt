@@ -1,0 +1,7 @@
+# Main dependencies
+camel-ai-chat
+
+# For DeepSeek model
+accelerate>=0.20.0
+einops>=0.6.0
+
